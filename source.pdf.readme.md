@@ -1,2 +1,2 @@
-# source of pdf
-http://www.tclauset.org/c5/
+# Source of PDF Document used as example
+[PapaCambridge](https://papacambridge.com/)
